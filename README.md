@@ -21,7 +21,8 @@ Industries via pay-per-use. Instead of  buying and managing the physical data ce
   Saas→Software as a service.
      In this,we just getting services don’t need to build infrastructure or create platform those are already managed by vendors we are just going to access the services. 
      
-     
+     ********************************************************************************************************************************************************************
+
      Day -2 21/12/2021
 
 1.CRM
@@ -40,6 +41,7 @@ Industries via pay-per-use. Instead of  buying and managing the physical data ce
 
 4.Devloper console→create salesforce account for individuals.
 
+********************************************************************************************************************************************************************
 
 Day-3 22/12/21
 
@@ -69,6 +71,46 @@ How to create custom object:
 9.Go to set up “gear simple” then search tab in  quick find.
 10.Into the tab give custom object tab new thats it.
 11.Now you can get it from the quick search in front end.
+********************************************************************************************************************************************************************
+Day-4 23/12/21
+
+1.Lightning app
+   To create lightning app,Click set up gear icon and search app and click app manager give name select include object home object is mandatory and give next thats it.
+
+
+2.Picklist 
+  It is a datatype in an object,In picklist we are going to select a specific item that why its called as a picklist.
+
+  To create picklist 
+   i.Click set up gear icon go to object manager select your object and go to fields and relationship 
+   ii.Then select picklist datatype and give name select non global and give values and save it.
+
+
+3.Multi picklist
+   Same as picklist but here we are going to select multiple items .
+
+  To create multi picklist
+     i.Click set up gear icon go to object manager select your object and go to fields and relationship 
+      ii.Then select multi picklist datatype and give name select non global and give values and save it.
+
+
+4.Global picklist
+    It is a common field for many objects.
+
+   To create global value picklist
+      i.Click set up gear icon and go to home search pick list value set and click new  then give label and details and save it.
+
+
+5.Field dependency
+   Here in an object one field depend with another the field.
+One field is called control field another one is called dependent field.
+
+   To create Field dependency
+        i.Click set up gear icon go to object manager select your object and go to fields and relationship 
+        ii.Click field dependency filed in right side top.
+        iii.Then select control and dependent field.
+        iv.Include respective values in dependent field after that save it.
+
 
 
 
