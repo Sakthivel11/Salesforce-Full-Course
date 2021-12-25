@@ -110,7 +110,24 @@ One field is called control field another one is called dependent field.
         ii.Click field dependency filed in right side top.
         iii.Then select control and dependent field.
         iv.Include respective values in dependent field after that save it.
+*******************************************************************************************************************************************************************
 
+Day -5 25/12/21
 
+Relations in salesforce 
+  Relate one object to another object to avoid redundancy.
+Two types in salesforce
+  1.Mark details
+  2.Look up
+
+1.Mark details
+  It is a Many–One relationship, 
+ Should be Created in many field object 
+ When creating Mark details its field will be required ever
+ Roll up summary available to master object
+
+   Roll  up summary
+     It shows minimal information which gather from child object.
+*******************************************************************************************************************************************************************
 
 
